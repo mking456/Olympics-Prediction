@@ -1,6 +1,6 @@
 # Olympic Medal Prediction
 
-[Olympic_Prediction]()
+![Olympic_Prediction](https://github.com/mking456/Olympics-Prediction/blob/main/medal.png)
 # Goal
 ### The goal of this project is to make a prediction model which will predict whether an athlete will win medal or not.
 
